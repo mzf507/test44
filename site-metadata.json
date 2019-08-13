@@ -5,7 +5,7 @@
   "header": {
     "title": "just test",
     "tagline": "Header Tagline",
-    "profile_img": "images/avatar.png",
+    "profile_img": "/images/avatar-1.png",
     "bg": "dark",
     "has_nav": true,
     "has_social": true
