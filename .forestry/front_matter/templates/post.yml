@@ -38,7 +38,5 @@ fields:
     required: true
 pages:
 - src/pages/posts/2019-03-24-japan.md
-- src/pages/posts/2019-03-10-grand-canyon.md
 - src/pages/posts/2018-01-23-the-ride-in-the-woods.md
-- src/pages/posts/2017-03-26-interior-designer.md
 - src/pages/posts/2016-08-22-working-from-home.md
